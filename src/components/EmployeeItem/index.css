@@ -1,0 +1,13 @@
+.empolyee-option-container {
+  display: flex;
+  margin-bottom: 20px;
+}
+.label-element {
+  margin-left: 10px;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
